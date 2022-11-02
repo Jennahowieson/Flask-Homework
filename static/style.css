@@ -1,0 +1,17 @@
+#body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    margin: 2rem;
+}
+
+.flex-container { 
+    display: flex;
+    border-color:black;
+    border-style: solid;
+    background-color: rgb(164, 250, 255);
+    width: 90%;
+    margin: 1rem;
+}
+.flex{
+    display: flex;
+}
